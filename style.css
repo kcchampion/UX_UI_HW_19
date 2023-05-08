@@ -35,6 +35,11 @@ header {
   z-index: 1;
 }
 
+h1, h2, h3 {
+  text-align: center;
+}
+
+
 header h1 {
   font-size: 2rem;
   margin-right: 1rem;
@@ -138,6 +143,4 @@ footer {
   text-align: center;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
-h1, h2, h3 {
-  text-align: center;
-}
+
