@@ -35,9 +35,7 @@ header {
   z-index: 1;
 }
 
-h1, h2, h3 {
-  text-align: center;
-}
+
 
 
 header h1 {
@@ -67,6 +65,7 @@ header nav a:hover {
 main {
   margin-top: 5rem;
   padding: 1rem;
+  text-align: center;
 }
 
 section {
@@ -76,6 +75,7 @@ section {
 section h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .gallery {
